@@ -1,0 +1,68 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="362px" height="141px" viewBox="-0.5 -0.5 362 141" content="&lt;mxfile&gt;&lt;diagram id=&quot;wGcx058cTWSLF6bSJDEi&quot; name=&quot;Page-1&quot;&gt;7VhdT9swFP01fZ3y0RT6uATYJDppgkl7RKZ2E0uuHTkObfn1uzd2Ptq0KIUCG0OqKvvk+to+5/ok8ihMlutvmuTZD0WZGAUeXY/Ci1EQROEZ/COwscD43LNAqjm1kN8Ct/yRObAOKzllxVagUUoYnm+DcyUlm5stjGitVtthCyW2Z81JynrA7ZyIPvqbU5M51J9M2wffGU8zN/V54Da8JHWw20mREapWHSi8HIWJVsrY1nKdMIHc1bzYcVcHnjYL00yaIQMCO+CBiNLtLSmXpSCGP7AKz1WpMaNmRVFqxChb8Dk3bv1mU5MCW8mxacg9QnFhiDZOu9ADANQwhEumAfCrvhAkL3gVbpGMCzojG1WaOlHdixd8zeiNlQ5jQcUZJMMuJl9A8lu3GHxMBE8ltOdABM4YwwZgLTNSGBfhds60YeuD7PmNJlDLTC2Z0RsIcQPGXmSHuDoOPCfrqq2KcOKwrFMQ/tiBxFVi2uRuxYKG02u/dmFPu6c1ucFCizOl+SMqIRxzXZ2q/oovBZFQwITuQLGqTmzFNxciUUKhmFJJ1tMTg6hW+S+iU2YckCsuTbXlKIYfkJB4X6JRBGtNoO+3ffhhuDaJkoXRUDeYg4F8K4YSxkblLqlgizq/dhRj+14Zo5auM0jsYL/YTtxwoLbhCaQd96T9eQ3cXF37ByWGjRhOxA34HZGpsIJU9kdaQfaotpfHLe66pO4eMwWULkTlYBmnlMmhXIf7ue6Qeyy3LllLwNHZiACrkMRAnZeSFj3BmnUO0jDqaUgh9TvrV9uijY2LnMy5TGd25GRH4OgVBF5vy9E9TN5JBR+U7rSKTz4NeZAhD377Pm3I+2rotQz57JAhH5b4HzPkyYc35POehnDSDFfyv/HkAxp/ZE+efnryW34kTwd6cnQCT65vA4Zo+zYnmVFe53uRF0+f5cVPcXq8F+9mO+2x9P2edvPm4uHOXjvc1ZcOd82VA5D8Ff5nSqbV4bhooBGaW+jbe4ZSYqxa4G0F4QK5y2BnOF9O8cJHg3yBd89SLiV4bR1sMiSmgAOEL4VuTqOqYWW1CDyxGFfqB7ap5vj7v+tPXYtHvjOeX5uD0r2oOKHbXrjZ8PbWMrz8Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-0-30-60-30-0">
+            <rect x="0" y="30" width="60" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-30-294-30-0">
+            <rect x="66" y="30" width="294" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-0-60-60-30-0">
+            <rect x="0" y="60" width="60" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-60-294-30-0">
+            <rect x="66" y="60" width="294" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-90-294-50-0">
+            <rect x="66" y="90" width="294" height="50"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 30 L 0 0 L 360 0 L 360 30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 0 140 L 360 140 L 360 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 30 L 360 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 30 L 60 60 L 60 90 L 60 140" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="179.5" y="19.5">
+                Cumulative vapour pressure deficit
+            </text>
+        </g>
+        <path d="M 0 30 M 60 30 M 60 60 M 0 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-0-30-60-30-0)" text-anchor="middle" font-size="12px">
+            <text x="29.5" y="49.5">
+                PK,FK1
+            </text>
+        </g>
+        <path d="M 60 30 M 360 30 M 360 60 M 60 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-66-30-294-30-0)" font-size="12px">
+            <text x="67.5" y="49.5">
+                date
+            </text>
+        </g>
+        <path d="M 0 60 M 360 60 M 360 90 L 0 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 60 M 60 60 M 60 90 M 0 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-0-60-60-30-0)" text-anchor="middle" font-size="12px">
+            <text x="29.5" y="79.5">
+                PK,FK2
+            </text>
+        </g>
+        <path d="M 60 60 M 360 60 M 360 90 M 60 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-66-60-294-30-0)" font-size="12px">
+            <text x="67.5" y="79.5">
+                station
+            </text>
+        </g>
+        <path d="M 0 90 M 60 90 M 60 140 M 0 140" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 90 M 360 90 M 360 140 M 60 140" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-66-90-294-50-0)" font-size="12px">
+            <text x="67.5" y="105.5">
+                cumulative_vapour_pressure_deficit : Long[] :
+            </text>
+            <text x="67.5" y="119.5">
+                count of daily high vpd from beginning of the season
+            </text>
+            <text x="67.5" y="133.5">
+                to fruit drop survey date
+            </text>
+        </g>
+    </g>
+</svg>

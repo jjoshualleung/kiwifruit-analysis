@@ -1,0 +1,65 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="411px" height="121px" viewBox="-0.5 -0.5 411 121" content="&lt;mxfile&gt;&lt;diagram id=&quot;couBsP9fQhh3ah4zf_Wv&quot; name=&quot;Page-1&quot;&gt;7ZhRb5swEMc/TV4niEvaPg7SblIzaWom7bFywYAlYyNzNEk//c5ghxCSimppp2aVogT/OR/n+52PyBMSFetvmpb5D5UwMZl6yXpC5pPp1L8MLvHHKBur+DOvVTLNE6t1wpI/Mys6s5onrOoZglICeNkXYyUli6GnUa3Vqm+WKtF/akkzNhCWMRVD9TdPIG/Vq8Dr9O+MZ7l7su/ZOwV1xlaocpqo1Y5EbiYk0kpBe1WsIyZM9lxe2nm3R+5uA9NMwpgJ03bCExW1XVtUF7WgwJ8Y6iuGATNtAgXNqsoGDRuXCYy/NJdAH40UVkA1WGDEQwERAOUSfZC534yFoGXFG/NWyblIFnSjanCO3ChM+Zol9y0vY4voFujMDI3zFJ0vbTDmNhU8k3gd4+rNE0OMGWNZ0AqshV0u08DWR1Pmb0FgCTNVMNAbNLETCLHsbPUGripXXSlcOC3fLQMHndryy7a+O0J4YSEdBkYGwF5mcm+qK8yV5s+GhLCZ2+XUjFe8EFRi2dJkTwpVs0+bfHMhIiWUgSmVZAOexijRqvxFdcbACqXiEpolByF+MAmR9yWYBBhrhGO/G+PHmGuIlMSCw7oxPhjiWzGDMARVWqeCpc6/tik2148KQBV2MAr29DBsC5eMZEtOgPZigPbnHebm9s4/ihgXApyKe2xyVGaiBdL0PNoBOUDtYB57udtN6v42U5jSVDRtK+dJwuTYXJPDud5J7uyVubXOugS82hsV2CokBazzWibVANg2zlEMgwHDJWAzVfIfI3SdsbUNq5LGXGaLduZsj3HwBozXfSI7kEhwUuaj3J0W+uyzJ4/qyaNfwC/35AM19GY9+fJYTz6O+IP15NnZ9+SrAcM5uv5vGvIRwOfckK8/G/J7/km+fseG7PyOYfs+O5kl3Pn7q0Z8ffaN2PcH7OLtacODPWt4cCcNmNuv+L1QMjMDsy3mWzXGeAB/VWpWoKD5rrWZlmrEZLoe8RtuLONS8sZJY13hVjH/xz1Q5gzqA7wKTl1SZ9T6cdgdlrXm3ZkjufkD&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-0-30-60-30-0">
+            <rect x="0" y="30" width="60" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-30-344-30-0">
+            <rect x="66" y="30" width="344" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-0-60-60-30-0">
+            <rect x="0" y="60" width="60" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-60-344-30-0">
+            <rect x="66" y="60" width="344" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-66-90-344-30-0">
+            <rect x="66" y="90" width="344" height="30"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 30 L 0 0 L 410 0 L 410 30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 0 120 L 410 120 L 410 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 30 L 410 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 30 L 60 60 L 60 90 L 60 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="204.5" y="19.5">
+                Cumulative weather stress
+            </text>
+        </g>
+        <path d="M 0 30 M 60 30 M 60 60 M 0 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-0-30-60-30-0)" text-anchor="middle" font-size="12px">
+            <text x="29.5" y="49.5">
+                PK,FK1
+            </text>
+        </g>
+        <path d="M 60 30 M 410 30 M 410 60 M 60 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-66-30-344-30-0)" font-size="12px">
+            <text x="67.5" y="49.5">
+                Station
+            </text>
+        </g>
+        <path d="M 0 60 M 410 60 M 410 90 L 0 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 60 M 60 60 M 60 90 M 0 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-0-60-60-30-0)" text-anchor="middle" font-size="12px">
+            <text x="29.5" y="79.5">
+                PK,FK2
+            </text>
+        </g>
+        <path d="M 60 60 M 410 60 M 410 90 M 60 90" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-66-60-344-30-0)" font-size="12px">
+            <text x="67.5" y="79.5">
+                Date
+            </text>
+        </g>
+        <path d="M 0 90 M 60 90 M 60 120 M 0 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 90 M 410 90 M 410 120 M 60 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-66-90-344-30-0)" font-size="12px">
+            <text x="67.5" y="102.5">
+                cumulative_weather_stress : Long [] : count of hot hours from
+            </text>
+            <text x="67.5" y="116.5">
+                beginning of season to date
+            </text>
+        </g>
+    </g>
+</svg>

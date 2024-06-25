@@ -1,0 +1,33 @@
+from pyspark.sql.types import StructType, StructField, StringType, LongType, DoubleType, DateType, TimestampType
+
+leaf_area_index_schema = StructType([
+  StructField("Grower", StringType(), True),
+  StructField("KPIN", LongType(), True),
+  StructField("MaturityArea", StringType(), True),
+  StructField("Bay", LongType(), True),
+  StructField("Date", DateType(), True, {"__detected_date_formats":"d/M/yyyy"}),
+  StructField("%SkyArea", DoubleType(), True),
+  StructField("%MaskArea", DoubleType(), True),
+  StructField("%CnpyOpen", DoubleType(), True),
+  StructField("%SiteOpen", DoubleType(), True),
+  StructField("LAI4Ring", DoubleType(), True),
+  StructField("LAI5Ring", DoubleType(), True),
+  StructField("LAIaverage", DoubleType(), True),
+  StructField("Units", StringType(), True),
+  StructField("RB", LongType(), True),
+  StructField("RD", LongType(), True),
+  StructField("Extra", DoubleType(), True),
+  StructField("AbvDir", DoubleType(), True),
+  StructField("AbvDif", DoubleType(), True),
+  StructField("AbvTot", DoubleType(), True),
+  StructField("AbvDirMsk", DoubleType(), True),
+  StructField("AbvDifMsk", DoubleType(), True),
+  StructField("AbvTotMsk", DoubleType(), True),
+  StructField("TransDir", DoubleType(), True),
+  StructField("TransDif", DoubleType(), True),
+  StructField("TransTot", DoubleType(), True),
+  StructField("%TransDir", DoubleType(), True),
+  StructField("%TransDif", DoubleType(), True),
+  StructField("%TransTot", DoubleType(), True),
+  StructField("Time", TimestampType(), True)
+])
