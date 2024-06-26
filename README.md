@@ -21,16 +21,17 @@ This project focuses on the development of an automated data pipeline and ETL pr
 	•	Jupyter: For interactive analysis and modeling
 	•	MLflow: For tracking and comparing experiments
 
-Data Lineage and Preprocessing
+## Data Lineage and Preprocessing
 
 The weather data lineage involves merging multiple raw weather datasets after preprocessing the data. Below is a diagram showing the weather data lineage and preprocessing steps:
 
 ![weather_data_lineage](img/weather_data_lineage.jpg)
 
-Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 
 The ERD was designed to understand how different data entities should be joined together to achieve comprehensive metrics for each KPIN, maturity area, bay, and cane. The diagram illustrates the relationships between various data sets and their corresponding metrics.
 
+![entities_relationships_diagram](img/entities_relationships_diagram.png)
 
 ## Data Analysis and Findings
 
